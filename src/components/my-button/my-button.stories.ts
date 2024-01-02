@@ -1,5 +1,6 @@
 export default {
   title: 'Components/MyButton',
+  tags: ['autodocs'],
 };
 
 const Template = args => `
